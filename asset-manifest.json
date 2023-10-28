@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/gamedev-website/static/css/main.57cc883c.css",
+    "main.js": "/gamedev-website/static/js/main.763fbfca.js",
+    "static/js/787.77053b85.chunk.js": "/gamedev-website/static/js/787.77053b85.chunk.js",
+    "static/media/leaf-guardian-legacy-title.png": "/gamedev-website/static/media/leaf-guardian-legacy-title.6b0c048a91e44fa5e75b.png",
+    "static/media/mob-revenge-title.png": "/gamedev-website/static/media/mob-revenge-title.febeb7646057fb8688e3.png",
+    "static/media/ironmouse-quest-title.png": "/gamedev-website/static/media/ironmouse-quest-title.7d664b69ad2d7527da34.png",
+    "static/media/profilepic.png": "/gamedev-website/static/media/profilepic.e52fd8707ef3ae5b04b8.png",
+    "static/media/logo.svg": "/gamedev-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/gamedev-website/index.html",
+    "main.57cc883c.css.map": "/gamedev-website/static/css/main.57cc883c.css.map",
+    "main.763fbfca.js.map": "/gamedev-website/static/js/main.763fbfca.js.map",
+    "787.77053b85.chunk.js.map": "/gamedev-website/static/js/787.77053b85.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57cc883c.css",
+    "static/js/main.763fbfca.js"
+  ]
+}
